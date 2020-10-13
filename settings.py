@@ -1,14 +1,14 @@
 # VALID PARAMS
 base_url = 'https://petfriends1.herokuapp.com/'
-valid_email = 'ofbctcujaexsvmihmi@awdrt.com'
-valid_password = '123456'
+valid_email = INSERT VALID EMAIL
+valid_password = INSERT VALID PASSWORD
 valid_pet_photo = 'images/cat.jpg'
 valid_pet_name = 'Кисонька'
 valid_pet_age = 12
 valid_pet_animal_type = 'Кошка'
 
 # INVALID PARAMS
-invalid_email = 'ofbctcujaexsvmihmi@awdrt'
+invalid_email = 'ofbjaexsvmihmi@awdrt'
 invalid_password = '1234567'
 incorrect_auth_key = {'key': '0'}
 incorrect_pet_id = 'qwz'
